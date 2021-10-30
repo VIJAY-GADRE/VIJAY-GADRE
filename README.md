@@ -2,11 +2,12 @@
 
 ## I'm a Data Scientist, Blogger, Designer, and also a Boy-Friend 👩‍❤️‍👨
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: (Python is my wife, R is my girlfriend),
+-             (although Excel is my secret lover),
+-             (but SQL is my best friend, (on whom I won't give it a chance)) 
 
 ### Connect with me:
 
