@@ -26,7 +26,7 @@
 
 <img align="left" alt="Numpy" width="26px" src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" />
 <img align="left" alt="Pandas" width="70px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />
-<img align="left" alt="Matplotlib" width="70px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
+<img align="left" alt="Matplotlib" height="26px" width="70px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
 <img align="left" alt="Scipy" width="26px" src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" />
 <img align="left" alt="SKlearn" width="70px" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" />
 <img align="left" alt="SKlearn" width="26px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" />
