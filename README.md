@@ -56,6 +56,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE)](https://github.com/VIJAY-GADRE)
   ![Vijay Gadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE&show_icons=true&theme=merko)
 
 
