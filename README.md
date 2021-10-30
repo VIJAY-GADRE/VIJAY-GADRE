@@ -71,8 +71,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE)](https://github.com/VIJAY-GADRE)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VIJAY-GADRE&show_icons=true&hide_border=true" />
 
 </details>
 
