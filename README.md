@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: (Python is my wife, R is my girlfriend),
--             (although Excel is my secret lover),
--             (but SQL is my best friend, (on whom I won't give it a chance)) 
+- ⚡ Fun fact: (Python is my wife, R is my girlfriend), (although Excel is my secret lover), (but SQL is my best friend, (on whom I won't give it a chance)) 
 
 ### Connect with me:
 
