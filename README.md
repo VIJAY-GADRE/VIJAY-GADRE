@@ -42,7 +42,7 @@
 ➡️ [more blog posts...](https://vijaygadre.medium.com)
 
 ---
-### ⚡ Github Stats
+### ⚡ GitHub Stats
   [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://vijaygadre.medium.com
