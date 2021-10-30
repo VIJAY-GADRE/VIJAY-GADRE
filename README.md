@@ -55,10 +55,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE)](https://github.com/VIJAY-GADRE)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE&show_icons=true&theme=gruvbox)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-GADRE&show_icons=true&theme=merko)
 
 
 
