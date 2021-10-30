@@ -1,4 +1,4 @@
-### Hi there, I'm Vijay - aka [codeSTACKr][website] 👋
+### Hi there, I'm Vijay - aka B.O.L.T. 👋
 
 ## I'm a Data Scientist, Blogger, Designer, and also a Boy-Friend 👩‍❤️‍👨
 
