@@ -42,31 +42,17 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [#TeamSeas - Let's Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
-- [Secret Mr. Beast Video Collab!!](https://www.youtube.com/watch?v=0sxnQCfJL2g)
-- [STACKr News Weekly: Make $10k on Etsy 💲, Build Candy Crush in React 🍭, Use VS Code on ANY Device! 🤯](https://www.youtube.com/watch?v=JOWeVhSz_bY)
-- [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Simple Linear Regression Using Python](https://python.plainenglish.io/simple-linear-regression-bd4348e1ee62)
+- [An Introduction to Regression Analysis](https://python.plainenglish.io/regression-analysis-57841ec34d1b9)
+- [Basics of Python - Part III](https://medium.com/geekculture/basics-of-python-part-iii-ca344e86c2c4)
+- [Basics of Python - Part II](https://medium.com/geekculture/basics-of-python-part-ii-77d814f440c0)
+- [Basics of Python - Part I](https://medium.com/geekculture/basics-of-python-part-i-9052496f69ca)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://vijaygadre.medium.com)
 
 ---
 
@@ -86,16 +72,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VIJAY-GADRE&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://vijaygadre.medium.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/vijay-gadre/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
