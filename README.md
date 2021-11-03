@@ -18,8 +18,10 @@ Here is some of the stuff I enjoy doing:
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/vijay-gadre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-gadre" height="30" width="40" /></a>
+
+
 [<img align="left" alt="vijaygadre | Medium" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vijay-gadre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
