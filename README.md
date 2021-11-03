@@ -1,4 +1,4 @@
-### Hi there, I'm Vijay - aka B.O.L.T. 👋
+### Hi there, I'm Vijay - aka B.O.L.T. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Data Scientist, Blogger, Designer, and also a Boy-Friend 👩‍❤️‍👨
 
