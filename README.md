@@ -7,7 +7,14 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: (Python is my wife, R is my girlfriend), 
 (although Excel is my secret lover), 
-(but SQL is my best friend, (on whom I won't give it a chance)) 
+(but SQL is my best friend, (on whom I won't give it a chance))
+
+Here is some of the stuff I enjoy doing:
+- Work with data and APIs
+- Preprocess the Data
+- Explore new Data visualization tools
+- Machine learning and Deep Learning
+- Designing and Blogging
 
 ### Connect with me:
 
