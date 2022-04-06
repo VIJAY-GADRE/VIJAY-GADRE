@@ -16,11 +16,11 @@ Here is some of the stuff I enjoy doing:
 - Machine learning and Deep Learning
 - Designing and Blogging
 
-### Connect with me:
+### Connect with me: ![](https://komarev.com/ghpvc/?username=VIJAY-GADRE&color=blue)
 
 [<img align="left" alt="vijaygadre | Medium" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vijaygadre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-![](https://komarev.com/ghpvc/?username=VIJAY-GADRE&color=green)
+
 <br />
 
 ### Languages and Tools:
